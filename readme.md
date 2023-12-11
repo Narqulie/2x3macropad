@@ -1,6 +1,6 @@
 # 2x3macropad
 
-![2x3macropad](imgur.com image replace me!)
+![2x3macropad](macropad.jpeg)
 
 This is a tiny 2x3 macropad, with six keys in total, completely programmable with the VIA web interface. The hardware is handwired in a simple matrix, the chassis is 3D-printed and a special set of keycaps in in the works. 
 
